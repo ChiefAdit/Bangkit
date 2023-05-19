@@ -1,6 +1,8 @@
 # hallocing
 
-A new Flutter project.
+Basic Project for Hallocing Apps.
+
+# Mobile Development By Aditya & Dinda
 
 ## Getting Started
 
@@ -8,6 +10,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+- You can Follow instagram developer @Aditya_wisnu._ & @
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
