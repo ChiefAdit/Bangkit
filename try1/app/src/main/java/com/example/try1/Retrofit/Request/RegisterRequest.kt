@@ -1,5 +1,6 @@
 package com.example.try1.Retrofit.Request
 
+import android.util.Patterns
 import com.google.gson.annotations.SerializedName
 
 data class RegisterRequest (
