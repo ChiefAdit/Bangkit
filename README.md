@@ -3,10 +3,10 @@
 Basic Project for HallCat Apps.
 
 # Mobile Development By Aditya & Dinda
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a kotlin application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -27,5 +27,9 @@ Aplication still under development by HalloCat Developer
 
 
 
+## How to Use 
 
+1. Clone this repository (ChiefAdit/Bangkit)[https://github.com/ChiefAdit/Bangkit.git]
+2. Open in Android Studio
+3. Run in your device or emulator
 
