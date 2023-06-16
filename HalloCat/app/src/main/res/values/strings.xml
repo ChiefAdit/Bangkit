@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HalloCat</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Article</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="loading_text">Loading...</string>
+    <string name="company_name">HalloCat Corp</string>
+    <string name="heroes_name">Nama</string>
+</resources>
