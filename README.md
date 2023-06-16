@@ -29,7 +29,7 @@ Aplication still under development by HalloCat Developer
 
 ## How to Use 
 
-1. Clone this repository (ChiefAdit/Bangkit)[https://github.com/ChiefAdit/Bangkit.git]
+1. Clone this repository MD branch [ChiefAdit/Bangkit](https://github.com/ChiefAdit/Bangkit.git)
 2. Open in Android Studio
 3. Run in your device or emulator
 
