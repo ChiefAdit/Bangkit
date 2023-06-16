@@ -19,7 +19,7 @@ This is first version for app and still under development
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.0   | :x:                |
+| 1.0.0   | :v:                |
 
 
 ## Reporting a Vulnerability
