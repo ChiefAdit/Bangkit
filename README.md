@@ -1,6 +1,6 @@
 # hallocing
 
-Basic Project for Hallocing Apps.
+Basic Project for HallCat Apps.
 
 # Mobile Development By Aditya & Dinda
 
@@ -12,6 +12,20 @@ A few resources to get you started if this is your first Flutter project:
 
 - You can Follow instagram developer [@Aditya_wisnu._](https://www.instagram.com/aditya_wisnu._/) & [@dinda](https://instagram.com/caesa_150204?igshid=MzRlODBiNWFlZA==)
 - [Lab: Write your first android app][https://www.developer.android.com]
+
+## Supported Versions
+
+This is first version for app and still under development
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.0.0   | :x:                |
+
+
+## Reporting a Vulnerability
+Aplication still under development by HalloCat Developer
+
+
 
 
 
